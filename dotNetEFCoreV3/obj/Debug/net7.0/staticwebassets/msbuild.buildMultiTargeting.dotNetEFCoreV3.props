@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dotNetEFCoreV3.props" />
+</Project>
