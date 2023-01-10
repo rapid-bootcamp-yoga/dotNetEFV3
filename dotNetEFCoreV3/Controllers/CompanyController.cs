@@ -39,6 +39,41 @@ namespace dotNetEFCoreV3.Controllers
             _context.SaveChanges();
 
             return Redirect("GetAll");
+        }
+
+        [HttpGet]
+        public IActionResult Edit(int? id)
+        {
+            var entity = _context.CompanyEntities.Find(id);
+            return View(entity);
+        }
+
+        [HttpPost]
+        public IActionResult Update([Bind("Id, CompanyName, Segmentasi, Address, Logo")] CompanyEntity request)
+        {
+            //update entity
+            _context.CompanyEntities.Update(request);
+
+            //commit to database
+            _context.SaveChanges();
+            return Redirect("GetAll");
+        }
+
+        [HttpGet]
+        public IActionResult Delete(int? id)
+        {
+            var entity = _context.CompanyEntities.Find(id);
+            if (entity == null)
+            {
+                return Redirect("GetAll");
+            }
+
+            //hapus dari entity
+            _context.CompanyEntities.Remove(entity);
+
+            //commit to database
+            _context.SaveChanges();
+            return Redirect("GetAll");
 
         }
 
