@@ -1,0 +1,29 @@
+﻿
+
+@model dotNetEFCoreV3.DataContext.OrderEntity
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Detail Order</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <th>Nama</th>
+        <td>@Model.Count</td>
+    </tr>
+    <tr>
+        <th>Email</th>
+        <td>@Model.Description </td>
+    </tr>
+    <tr>
+        <th>Password</th>
+        <td>@Model.ProductId</td>
+    </tr>
+
+</table>
