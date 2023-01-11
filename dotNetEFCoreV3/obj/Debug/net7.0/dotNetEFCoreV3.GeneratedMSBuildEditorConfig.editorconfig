@@ -72,22 +72,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order - Copy/Add.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXIgLSBDb3B5XEFkZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order - Copy/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXIgLSBDb3B5XERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order - Copy/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXIgLSBDb3B5XEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order - Copy/GetAll.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXIgLSBDb3B5XEdldEFsbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -102,6 +86,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order/GetAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Product/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Product/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Shared/Error.cshtml]

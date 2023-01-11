@@ -60,7 +60,7 @@ namespace dotNetEFCoreV3.Migrations
                     b.Property<string>("CompanyName")
                         .IsRequired()
                         .HasColumnType("longtext")
-                        .HasColumnName("category_name");
+                        .HasColumnName("company_name");
 
                     b.Property<string>("Logo")
                         .IsRequired()

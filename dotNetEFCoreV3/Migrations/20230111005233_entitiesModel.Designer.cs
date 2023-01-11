@@ -10,7 +10,7 @@ using dotNetEFCoreV3.DataContext;
 namespace dotNetEFCoreV3.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230110093546_entitiesModel")]
+    [Migration("20230111005233_entitiesModel")]
     partial class entitiesModel
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -62,7 +62,7 @@ namespace dotNetEFCoreV3.Migrations
                     b.Property<string>("CompanyName")
                         .IsRequired()
                         .HasColumnType("longtext")
-                        .HasColumnName("category_name");
+                        .HasColumnName("company_name");
 
                     b.Property<string>("Logo")
                         .IsRequired()

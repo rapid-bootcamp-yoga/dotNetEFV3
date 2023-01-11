@@ -1,0 +1,29 @@
+﻿
+
+@model dotNetEFCoreV3.DataContext.ProductEntity
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Detail Product</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <th>Nama</th>
+        <td>@Model.ProductName</td>
+    </tr>
+    <tr>
+        <th>Kategori</th>
+        <td>@Model.Category</td>
+    </tr>
+    <tr>
+        <th>Harga</th>
+        <td>@Model.Price</td>
+    </tr>
+
+</table>

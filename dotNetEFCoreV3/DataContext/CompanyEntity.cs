@@ -10,7 +10,7 @@ namespace dotNetEFCoreV3.DataContext
         [Column("id")]
         public int Id { get; set; }
 
-        [Column("category_name")]
+        [Column("company_name")]
         public String CompanyName { get; set; }
 
         [Column("segmentasi")]
