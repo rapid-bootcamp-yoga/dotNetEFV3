@@ -9,117 +9,117 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = dotNetEFCoreV3
 build_property.RootNamespace = dotNetEFCoreV3
-build_property.ProjectDir = D:\Belajar Software Engineer\dotNET\dotNetEFCoreV3\dotNetEFCoreV3\
+build_property.ProjectDir = d:\Belajar Software Engineer\dotNET\dotNetEFCoreV3\dotNetEFCoreV3\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Belajar Software Engineer\dotNET\dotNetEFCoreV3\dotNetEFCoreV3
+build_property.MSBuildProjectDirectory = d:\Belajar Software Engineer\dotNET\dotNetEFCoreV3\dotNetEFCoreV3
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Category/Add.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Category/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Category/Details.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Category/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Category/Edit.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Category/GetAll.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Category/GetAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcR2V0QWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Company/Add.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Company/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Company/Details.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Company/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Company/Edit.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Company/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Company/GetAll.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Company/GetAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxHZXRBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Customer/Add.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Customer/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Customer/Details.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Customer/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Customer/Edit.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Customer/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Customer/GetAll.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Customer/GetAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcR2V0QWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Home/Index.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Home/Privacy.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order/Add.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order/Details.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order/Edit.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order/GetAll.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Order/GetAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcR2V0QWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Product/Add.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Product/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Product/Details.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Product/Edit.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Product/GetAll.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Product/GetAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Shared/Error.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Shared/_ValidationScriptsPartial.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/_ViewImports.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/_ViewStart.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Shared/_Layout.cshtml]
+[d:/Belajar Software Engineer/dotNET/dotNetEFCoreV3/dotNetEFCoreV3/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2tk4otj0gy
